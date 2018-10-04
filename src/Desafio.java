@@ -2,6 +2,7 @@ public class Desafio {
     public static void main(String[] args) {
         //string cadenaSalida="";
         //System.out.println("Desafio");
+        // se agrega try cach
         try {
             Negocio desafio = new Negocio();
             desafio.setCadena("1o2o3o4o5o");
